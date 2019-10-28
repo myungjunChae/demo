@@ -11,6 +11,7 @@ Project will be updated several branches
 
 - mvc pattern
 - mvp pattern
+- coroutine
 
 
 ## Languages, libraries and tools used
